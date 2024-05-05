@@ -8,5 +8,5 @@ Bu yapı aşağıdaki alanlara sahiptir:
 - `tibia_length`: Tibia (kaval kemiği) uzunluğu
 - `tibia_angle`: Tibia açısı
 - `femur_length`: Femur (uyluk kemiği) uzunluğu
-- `femur_angle`: Femur açısı Verilen parametrelere göre atak ucunun gideceği konumu matematiksel hesaplamalar yardımı ile hesaplar
+- `femur_angle`: Femur açısı Verilen parametrelere göre ayak ucunun gideceği konumu matematiksel hesaplamalar yardımı ile hesaplar
 
