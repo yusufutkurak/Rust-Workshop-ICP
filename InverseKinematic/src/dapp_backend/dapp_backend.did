@@ -1,0 +1,11 @@
+type InverseKinematic =  
+    record {
+    tibbia_length: float32;
+    tibia_angle: float32;
+    femur_length: float32;
+    femur_angle: float32;
+    };
+
+service: {
+    "get_angle": (float32,float32,float32,float32) -> (InverseKinematic) query;
+}

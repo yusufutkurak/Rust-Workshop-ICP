@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "dapp_backend": {
+      "candid": "src/dapp_backend/dapp_backend.did",
+      "package": "dapp_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
